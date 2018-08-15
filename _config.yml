@@ -16,8 +16,7 @@
 title: HackaSoton
 author: HackaSoton
 email: hack@soton.ac.uk
-description: >- # this means to ignore newlines until "baseurl:"
-  The Tech & Entrepreneurship Community (University of Southampton)
+description: 'The Tech & Entrepreneurship Community'
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: HackaSoton
@@ -25,7 +24,7 @@ github_username: HackaSoton
 facebook_username: HackaSoton
 
 rss: RSS
-show_excerpts: true
+show_excerpts: false
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
