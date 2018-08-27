@@ -14,8 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: HackaSoton
-author: HackaSoton
 email: hack@soton.ac.uk
+address: |
+  University of Southampton Highfield Campus<br>
+  University Road<br>
+  Southampton, SO17 1BJ<br>
+  United Kingdom
 description: 'The Tech & Entrepreneurship Community'
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -24,7 +28,7 @@ github_username: HackaSoton
 facebook_username: HackaSoton
 
 rss: RSS
-show_excerpts: false
+show_excerpts: true
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -36,7 +40,6 @@ minima:
 header_pages:
 - about.md
 - newsletter.md
-- sponsors.md
 
 # Build settings
 # markdown: kramdown
@@ -56,3 +59,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+google_analytics: UA-124645518-1
