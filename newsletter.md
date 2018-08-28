@@ -22,31 +22,20 @@ Sign up to get updates about our *free hackathons, swag, food, and more!*  �
 </style>
 <div id="mc_embed_signup">
 <form action="https://hackasoton.us7.list-manage.com/subscribe/post?u=959a42d567d3f16d123db561e&amp;id=83ab3277fa" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<h2></h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-	<label for="mce-EMAIL">Email address  <span class="asterisk">*</span>
-</label>
-	<input type="email" value="" name="EMAIL" placeholder="xxx@soton.ac.uk (if you want to become a member)" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-	<label for="mce-FNAME">First name  <span class="asterisk">*</span>
-</label>
-	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-	<label for="mce-LNAME">Last name  <span class=""></span>
-</label>
-	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-<div class="mc-field-group input-group">
-    <strong>Become a member?  <span class="asterisk">*</span>
-</strong>
-    <ul><li><input type="radio" checked value="Yes, let's make it official with SUSU!" name="BMEMBER" id="mce-BMEMBER-0"><label for="mce-BMEMBER-0">Yes, let's make it official with SUSU!</label></li>
-<li><input type="radio" value="No, just send me occasional updates." name="BMEMBER" id="mce-BMEMBER-1"><label for="mce-BMEMBER-1">No, just send me occasional updates.</label></li>
-</ul>
-</div>
+  <div id="mc_embed_signup_scroll">
+	<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+	<div class="mc-field-group">
+		<label for="mce-EMAIL">Email address  <span class="asterisk">*</span></label>
+		<input type="email" value="" name="EMAIL" placeholder="Please use your @soton.ac.uk email if you have one." class="required email" id="mce-EMAIL">
+	</div>
+	<div class="mc-field-group">
+		<label for="mce-FNAME">First name  <span class="asterisk">*</span></label>
+		<input type="text" value="" name="FNAME" placeholder="For real! We want to call you by your name." class="required" id="mce-FNAME">
+	</div>
+	<div class="mc-field-group">
+		<label for="mce-LNAME">Last name  <span class=""></span></label>
+		<input type="text" value="" name="LNAME" placeholder="This is optional. Less typing!" class="" id="mce-LNAME">
+	</div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
