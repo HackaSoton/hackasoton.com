@@ -11,6 +11,7 @@ To stay up to date with our news, you can:
 - [subscribe to our newsletter](/newsletter.html)
 - [follow the Society page on Facebook](https://facebook.com/HackaSoton)
 - [follow the Hack The South page on Facebook](https://facebook.com/HackTheSouthUK)
+- check hackasoton.com regularly [(or use RSS)](https://hackasoton.com/feed.xml)
 
 We also have a small community:
 
