@@ -10,7 +10,7 @@ American Express is visiting Southampton! Come by for a chill evening with smart
 
 **Time**: 6pm - 8pm (and pub afterwards)
 
-**Food**: pizza
+**Location**: Maths Student Centre (Building 56)
 
 > Having your own personal website can be a great way to stand out from the crowd. The aim of the workshop is to give attendees the tools to build and deploy their very own website. We’ll cover some examples, what to include, popular technologies and deployment methods. Whether you already have your own website and are simply looking to get it online or you haven’t even begun, we’ll have something useful for you! The session will consist of a short introduction, followed by hands-on help from American Express demonstrators.
 
