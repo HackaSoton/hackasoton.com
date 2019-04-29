@@ -1,10 +1,10 @@
 ---
 layout: post
-title: HackaSoton AGM — Committee Elections for 2019/2020
+title: (DATE CHANGED) HackaSoton AGM — Committee Elections for 2019/2020
 date: '2019-04-25 12:35:19 +0000'
 ---
 
-It is our pleasure to invite everyone to our AGM on 2 May @ 6pm in B7/3019.
+It is our pleasure to invite everyone to our AGM on ~~2 May @ 6pm in B7/3019~~ **MOVED:** 1 May, 6PM @ B7/3023.
 
 --------------------------------------------------------------------------------
 
